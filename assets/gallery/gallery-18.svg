@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E5ECEF"/><stop offset="1" stop-color="#FAFCFD"/></linearGradient><pattern id="grain" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="4" cy="6" r=".8" fill="#7D9CA8" opacity=".12"/><circle cx="15" cy="17" r=".6" fill="#7D9CA8" opacity=".10"/></pattern></defs>
+<rect width="100%" height="100%" fill="url(#bg)"/><rect width="100%" height="100%" fill="url(#grain)"/>
+<rect x="24" y="24" width="652" height="652" rx="8" fill="none" stroke="#7D9CA8" stroke-opacity=".55" stroke-width="1.5"/>
+<g transform="translate(350 238.00000000000003)" fill="none" stroke="#7D9CA8" stroke-width="2" stroke-linecap="round" opacity=".72">
+ <path d="M0 42 C-8 15 -26 0 -42 -8 C-35 15 -20 30 0 42"/><path d="M0 42 C9 13 27 1 44 -7 C37 17 19 32 0 42"/><path d="M0 42 C-2 20 1 -3 0 -24"/>
+ <ellipse cx="0" cy="-31" rx="9" ry="14" fill="#FAFCFD"/><ellipse cx="-13" cy="-22" rx="9" ry="14" transform="rotate(-45 -13 -22)" fill="#FAFCFD"/><ellipse cx="13" cy="-22" rx="9" ry="14" transform="rotate(45 13 -22)" fill="#FAFCFD"/><ellipse cx="-12" cy="-38" rx="8" ry="12" transform="rotate(-45 -12 -38)" fill="#FAFCFD"/><ellipse cx="12" cy="-38" rx="8" ry="12" transform="rotate(45 12 -38)" fill="#FAFCFD"/><circle cy="-30" r="6" fill="#7D9CA8" stroke="none"/>
+</g>
+<text x="350" y="434.0" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#7D9CA8" letter-spacing="2">OUR MOMENT</text>
+<path d="M300 462.0 H400" stroke="#7D9CA8" stroke-opacity=".7"/>
+<text x="350" y="497.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#7D9CA8" letter-spacing="3">PHOTO TEMPLATE 18</text>
+<text x="350" y="546.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#7D9CA8" opacity=".8">Replace with your photo</text>
+</svg>

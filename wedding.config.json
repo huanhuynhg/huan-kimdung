@@ -1,0 +1,221 @@
+{
+  "site": {
+    "title": "Thiệp cưới Hữu Huân & Kim Dung",
+    "url": "https://huanhuynhg.github.io/weddinginvitation-v2/",
+    "language": "vi",
+    "timeZone": "Asia/Ho_Chi_Minh",
+    "description": "Trân trọng thông báo lễ cưới của Hữu Huân và Kim Dung"
+  },
+  "couple": {
+    "groom": {
+      "name": "Hữu Huân",
+      "portrait": "assets/portraits/groom.jpg"
+    },
+    "bride": {
+      "name": "Kim Dung",
+      "portrait": "assets/portraits/bride.jpg"
+    }
+  },
+  "theme": {
+    "ivory": "#FDF9F5",
+    "blush": "#F6E7E3",
+    "rose": "#8B5E5E",
+    "sage": "#A7B89F",
+    "gold": "#D4B895"
+  },
+  "hero": {
+    "defaultImage": "assets/gallery/gallery-01.jpg",
+    "vuQuyImage": "",
+    "thanhHonImage": "",
+    "memoriesImage": "",
+    "eyebrow": "TRÂN TRỌNG THÔNG BÁO",
+    "title": "Lễ cưới",
+    "tagline": "Hai trái tim, một hành trình hạnh phúc.",
+    "messages": {
+      "countdownVuQuy": "Đếm ngược đến ngày hạnh phúc",
+      "welcomeVuQuy": "Hân hoan chào đón quý khách đến chung vui trong Lễ Vu Quy của chúng mình.",
+      "countdownThanhHon": "Cùng đếm ngược đến khoảnh khắc nên duyên",
+      "welcomeThanhHon": "Trân trọng chào đón quý khách đến chung vui trong Lễ Thành Hôn của chúng mình.",
+      "welcomeBoth": "Hân hoan chào đón quý khách cùng chia sẻ niềm vui trong ngày trọng đại của chúng mình.",
+      "memories": "Ngày hạnh phúc đã trở thành những kỷ niệm thật đẹp. Cảm ơn bạn đã là một phần trong hành trình của chúng mình."
+    }
+  },
+  "events": {
+    "vu-quy": {
+      "title": "Lễ Vu Quy",
+      "startAt": "2027-04-04T09:00:00+07:00",
+      "endAt": "2027-04-04T10:30:00+07:00",
+      "venueName": "Tư gia nhà gái",
+      "address": "Thôn Phú Lễ 2, xã Bình Sơn, tỉnh Quảng Ngãi",
+      "mapUrl": "",
+      "image": "assets/gallery/gallery-07.jpg"
+    },
+    "thanh-hon": {
+      "title": "Lễ Thành Hôn",
+      "startAt": "2027-04-25T09:00:00+07:00",
+      "endAt": "2027-04-25T10:30:00+07:00",
+      "venueName": "Tư gia nhà trai",
+      "address": "TDP 11, xã Vạn Ninh, tỉnh Khánh Hòa",
+      "mapUrl": "",
+      "image": "assets/gallery/gallery-08.jpg"
+    },
+    "tiec-nha-gai": {
+      "enabled": true,
+      "title": "Tiệc cưới nhà gái",
+      "startAt": "2027-04-04T11:00:00+07:00",
+      "endAt": "2027-04-04T14:00:00+07:00",
+      "venueName": "Hợp tác xã Nông Nghiệp 1 Bình Trung",
+      "address": "Thôn Phú Lễ 2, xã Bình Sơn, tỉnh Quảng Ngãi (xã Bình Trung, huyện Bình Sơn cũ)",
+      "mapUrl": "https://www.google.com/maps/place/C%C6%A1+quan+H%E1%BB%A3p+t%C3%A1c+x%C3%A3+N%C3%B4ng+nghi%E1%BB%87p+1+B%C3%ACnh+Trung/@15.3126597,108.737806,17z/data=!3m1!4b1!4m6!3m5!1s0x3169b595ccdce1ed:0x437a5fe523a5d21b!8m2!3d15.3126545!4d108.7403809!16s%2Fg%2F11hssvcrm7",
+      "image": "assets/gallery/gallery-05.jpg"
+    },
+    "tiec-nha-trai": {
+      "enabled": true,
+      "title": "Tiệc cưới nhà trai",
+      "startAt": "2027-04-25T11:30:00+07:00",
+      "endAt": "2027-04-25T14:30:00+07:00",
+      "venueName": "Trung tâm hội nghị tiệc cưới Hoàng Hảo",
+      "address": "1A Trần Phú, xã Vạn Ninh, tỉnh Khánh Hòa (thị trấn Vạn Giã, huyện Vạn Ninh cũ)",
+      "mapUrl": "https://www.google.com/maps/place/Trung+T%C3%A2m+H%E1%BB%99i+Ngh%E1%BB%8B+Ti%E1%BB%87c+C%C6%B0%E1%BB%9Bi+Ho%C3%A0ng+H%E1%BA%A3o/@12.6882237,109.2237301,20z/data=!4m6!3m5!1s0x317018fa1ca40351:0x910aaa9484f22f1!8m2!3d12.6881522!4d109.2245377!16s%2Fg%2F11cn9kg1tn",
+      "image": "assets/gallery/gallery-10.jpg"
+    },
+    "tiec-cuoi": {
+      "enabled": false,
+      "title": "Tiệc cưới",
+      "startAt": "2027-04-25T18:00:00+07:00",
+      "endAt": "2027-04-25T21:00:00+07:00",
+      "venueName": "",
+      "address": "",
+      "mapUrl": "",
+      "image": ""
+    }
+  },
+  "gallery": {
+    "title": "Khoảnh khắc của chúng mình",
+    "images": [
+      {
+        "src": "assets/gallery/gallery-01.jpg",
+        "alt": "Ảnh cưới 1",
+        "aspectRatio": "3/2",
+        "order": 1
+      },
+      {
+        "src": "assets/gallery/gallery-02.jpg",
+        "alt": "Ảnh cưới 2",
+        "aspectRatio": "3568/5351",
+        "order": 2
+      },
+      {
+        "src": "assets/gallery/gallery-03.jpg",
+        "alt": "Ảnh cưới 3",
+        "aspectRatio": "2560/1923",
+        "order": 3
+      },
+      {
+        "src": "assets/gallery/gallery-04.jpg",
+        "alt": "Ảnh cưới 4",
+        "aspectRatio": "2/3",
+        "order": 4
+      },
+      {
+        "src": "assets/gallery/gallery-05.jpg",
+        "alt": "Ảnh cưới 5",
+        "aspectRatio": "3/2",
+        "order": 5
+      },
+      {
+        "src": "assets/gallery/gallery-06.jpg",
+        "alt": "Ảnh cưới 6",
+        "aspectRatio": "2/3",
+        "order": 6
+      },
+      {
+        "src": "assets/gallery/gallery-07.jpg",
+        "alt": "Ảnh cưới 7",
+        "aspectRatio": "2193/2560",
+        "order": 7
+      },
+      {
+        "src": "assets/gallery/gallery-08.jpg",
+        "alt": "Ảnh cưới 8",
+        "aspectRatio": "3467/5201",
+        "order": 8
+      },
+      {
+        "src": "assets/gallery/gallery-09.jpg",
+        "alt": "Ảnh cưới 9",
+        "aspectRatio": "2/3",
+        "order": 9
+      },
+      {
+        "src": "assets/gallery/gallery-10.jpg",
+        "alt": "Ảnh cưới 10",
+        "aspectRatio": "3523/5284",
+        "order": 10
+      },
+      {
+        "src": "assets/gallery/gallery-11.jpg",
+        "alt": "Ảnh cưới 11",
+        "aspectRatio": "2/3",
+        "order": 11
+      },
+      {
+        "src": "assets/gallery/gallery-12.jpg",
+        "alt": "Ảnh cưới 12",
+        "aspectRatio": "4/5",
+        "order": 12
+      }
+    ],
+    "memoriesImages": []
+  },
+  "guestbook": {
+    "enabled": true,
+    "title": "Lời chúc từ những người thân yêu",
+    "description": "Cảm ơn bạn đã là một phần trong ngày hạnh phúc này.",
+    "apiUrl": "https://script.google.com/macros/s/AKfycbyfPcsLV231QhNgV4zI4iMS0qZeE3xTAo_rA5kULIxYn7_PEfkgx7bRoAHpWJ27zq4b/exec",
+    "allowSubmission": true,
+    "showMessages": true,
+    "maxLength": 500,
+    "pageSize": 20
+  },
+  "rsvp": {
+    "enabled": true,
+    "provider": "google_forms",
+    "displayMode":  "external", 
+    "embedUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdq2xt8-fdEkOowCmdO08SoC-jF1dDabe8QZMae9T0QDIuc2w/viewform?embedded=true",
+    "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdq2xt8-fdEkOowCmdO08SoC-jF1dDabe8QZMae9T0QDIuc2w/viewform",
+    "title": "Xác nhận tham dự",
+    "description": "Sự hiện diện của bạn là niềm vui lớn nhất của chúng mình."
+  },
+  "music": {
+    "enabled": false,
+    "src": "",
+    "autoplay": true,
+    "loop": true
+  },
+  "sharing": {
+    "enabled": true,
+    "title": "Chia sẻ thiệp cưới"
+  },
+  "lifecycle": {
+    "memoriesEnabled": false,
+    "loveStoryEnabled": false,
+    "thankYou": "Cảm ơn bạn đã cùng chúng mình tạo nên những khoảnh khắc thật đẹp!"
+  },
+  "eventsShowImages": false,
+  "contact": {
+    "enabled": true,
+    "title": "Thông tin liên hệ",
+    "description": "Kết nối với chúng mình qua Facebook nhé.",
+    "groom": {
+      "label": "Chú rể",
+      "name": "Hữu Huân",
+      "facebookUrl": "https://www.facebook.com/huuhuan.huynh.1916/"
+    },
+    "bride": {
+      "label": "Cô dâu",
+      "name": "Kim Dung",
+      "facebookUrl": "https://www.facebook.com/ctkimdung.77/"
+    }
+  }
+}
